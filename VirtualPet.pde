@@ -2,12 +2,12 @@
 void setup(){
   //some of your code here
 size(600,600);
-fill(173,216,230);
+
 
 }
 void draw(){
   //more of your code here
-
+fill(173,216,230);
 ellipse(340,150,170,130);
 ellipse(340,360,170,130);
 triangle(90,80,182,240,90,400);

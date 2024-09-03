@@ -1,8 +1,8 @@
 
 void setup(){
   //some of your code here
-fill(173,216,230);
 size(600,600);
+fill(173,216,230);
 
 }
 void draw(){
